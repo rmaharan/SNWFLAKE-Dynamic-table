@@ -1,0 +1,1 @@
+# SNWFLAKE-Dynamic-table
